@@ -1,0 +1,8 @@
+# 简介
+Google Earth Engine（GEE）是一个云计算平台，旨在存储和处理海量数据集（PB级），以进行分析和最终决策。 在2008年免费提供大地卫星系列之后，谷歌将所有数据集存档，并将其链接到云计算引擎，供开源使用。 目前的数据档案包括来自其他卫星的数据，以及基于地理信息系统的矢量数据集、社会、人口、天气、数字高程模型和气候数据层。
+# GEE代码编辑器
+https://code.earthengine.google.com/
+# GEE图形界面
+https://explorer.earthengine.google.com/#workspace
+# 登录
+需使用教育邮箱（带edu），一般大学均有邮箱服务
